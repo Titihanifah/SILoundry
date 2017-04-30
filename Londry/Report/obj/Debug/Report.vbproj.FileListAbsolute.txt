@@ -1,0 +1,16 @@
+E:\Documents\KULIAH\Sistem Informasi\Londry\Report\bin\Debug\Report.exe
+E:\Documents\KULIAH\Sistem Informasi\Londry\Report\bin\Debug\Report.pdb
+E:\Documents\KULIAH\Sistem Informasi\Londry\Report\bin\Debug\Report.xml
+E:\Documents\KULIAH\Sistem Informasi\Londry\Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\KULIAH\Sistem Informasi\Londry\Report\obj\Debug\Report.Form1.resources
+E:\Documents\KULIAH\Sistem Informasi\Londry\Report\obj\Debug\Report.Resources.resources
+E:\Documents\KULIAH\Sistem Informasi\Londry\Report\obj\Debug\Report.vbproj.GenerateResource.Cache
+E:\Documents\KULIAH\Sistem Informasi\Londry\Report\obj\Debug\Report.exe
+E:\Documents\KULIAH\Sistem Informasi\Londry\Report\obj\Debug\Report.xml
+E:\Documents\KULIAH\Sistem Informasi\Londry\Report\obj\Debug\Report.pdb
+C:\Users\titih\OneDrive\Kuliah\semester 4\SI\Londry\Londry\Report\obj\Debug\Report.exe
+C:\Users\titih\OneDrive\Kuliah\semester 4\SI\Londry\Londry\Report\obj\Debug\Report.xml
+C:\Users\titih\OneDrive\Kuliah\semester 4\SI\Londry\Londry\Report\obj\Debug\Report.pdb
+C:\Users\titih\OneDrive\Kuliah\semester 4\SI\Londry\Londry\Report\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\titih\OneDrive\Kuliah\semester 4\SI\Londry\Londry\Report\obj\Debug\Report.Report.resources
+C:\Users\titih\OneDrive\Kuliah\semester 4\SI\Londry\Londry\Report\obj\Debug\Report.vbproj.GenerateResource.Cache
